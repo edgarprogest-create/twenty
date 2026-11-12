@@ -3,7 +3,7 @@
   "name": "Nortdesk",
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
+  "theme_color": "#2b45e8",
   "background_color": "#ffffff",
   "icons": [
     {
