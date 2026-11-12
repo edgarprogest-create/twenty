@@ -1,6 +1,6 @@
 {
-  "short_name": "PipeBook",
-  "name": "PipeBook",
+  "short_name": "nortdesk",
+  "name": "Nortdesk",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
